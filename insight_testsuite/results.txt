@@ -1,2 +1,0 @@
-[Mon, Jul 11, 2016 11:16:36 PM] 0 of 1 tests passed
-[Mon, Jul 11, 2016 11:24:31 PM] 0 of 1 tests passed
